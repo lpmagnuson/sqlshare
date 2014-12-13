@@ -1,0 +1,7 @@
+record_number,title,format,author,place,publisher,year,subjects,isbn
+9900123,MySQL Workbench: Data Modeling & Development,eBook,Michael McLaughlin ,New York,McGraw-Hill/Oracle Press,2013,MySQL (Electronic resource); Databases – Design.,9780071791885
+9900456,MySQL Cookbook,eBook,Paul Dubois ,"Sebastopol, Calif.",O'Reilly Media,2014,MySQL (Electronic resource); SQL (Computer program language); Database,9781449374020
+9900789,SQL Queries for Mere Mortals: A Hands-on Guide to Data Manipulation in SQL,eBook,John Viescas; Michael J Hernandez ,,Addison-Wesley,2014,SQL (Computer program language); Database searching.,9780133824889
+9900012,The Language of SQL,Book,Larry Rockoff ,"Boston, MA",Course Technology Cengage Learning,2011,SQL (Computer program language); Relational databases.,9781435457515
+9900345,SQL for Dummies,Book, Allen G Taylor,"Hoboken, New Jersey","John Wiley & Sons,",2013,"SQL (Computer program language); Database management; Relational databases; Computer programming.
+",9781118607961
